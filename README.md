@@ -1,2 +1,3 @@
-this is the first
-this is the second
+this is a simple readme gile
+
+just some updates
